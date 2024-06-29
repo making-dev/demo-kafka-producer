@@ -1,0 +1,1 @@
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.3.1&packaging=jar&jvmVersion=21&groupId=com.example&artifactId=demo-kafka-producer&name=demo-kafka-producer&description=Demo%20project%20for%20Spring%20Boot&packageName=com.example&dependencies=kafka,testcontainers,web,actuator
